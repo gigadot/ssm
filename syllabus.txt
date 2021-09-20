@@ -1,0 +1,16 @@
+Syllabus
+1. Numerical Methods
+    - ODEs
+    - PDEs
+    - Fourier Transform
+    - Discrete Fourier Transform
+    - Fast Fourier Transform
+    - Image Processing
+    - Signal processing
+2. Simulation
+    - Computer Models
+    - Process of building Models
+    - Optimization Model/ Simulation
+    - Monte Carlo Simulation
+3. Special Topics (If we still have time)
+4. Personal Investigation Project
