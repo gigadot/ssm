@@ -11,6 +11,7 @@ matplotlib = "*"
 scipy = "*"
 seaborn = "*"
 autopep8 = "*"
+imageio = "*"
 
 [dev-packages]
 
