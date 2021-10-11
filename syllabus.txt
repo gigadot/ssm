@@ -2,6 +2,7 @@ Syllabus
 1. Numerical Methods
     - ODEs
     - PDEs
+    - Fourier Series
     - Fourier Transform
     - Discrete Fourier Transform
     - Fast Fourier Transform
